@@ -1,0 +1,19 @@
+{
+  "name": "@messengerblack/messengerblack-css",
+  "version": "0.1.0",
+  "description": "CSS files used for Messenger Black",
+  "main": "styles.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messengerblack/messengerblack-css.git"
+  },
+  "author": "Ryan Mohta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/messengerblack/messengerblack-css/issues"
+  },
+  "homepage": "https://github.com/messengerblack/messengerblack-css#readme"
+}
