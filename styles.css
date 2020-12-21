@@ -1,3 +1,4 @@
 .__fb-dark-mode {
-  --web-wash: white !important;
+  --surface-background: rgb(31, 32, 34) !important;
+  --messenger-card-background: rgb(31, 32, 34) !important;
 }
