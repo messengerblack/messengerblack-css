@@ -2,3 +2,7 @@
   --surface-background: #18191A !important;
   --messenger-card-background: #18191A !important;
 }
+
+.__fb-dark-mode svg.hwsy1cff {
+  fill: white !important;
+}
