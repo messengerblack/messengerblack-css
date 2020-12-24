@@ -1,6 +1,6 @@
 {
   "name": "@messengerblack/messengerblack-css",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "CSS files used for Messenger Black",
   "main": "styles.css",
   "scripts": {
