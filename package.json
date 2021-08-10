@@ -1,15 +1,12 @@
 {
   "name": "@messengerblack/messengerblack-css",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "CSS files used for Messenger Black",
   "main": "base.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/messengerblack/messengerblack-css.git"
-  },
+  "repository": "git://github.com/messengerblack/messengerblack-css.git",
   "author": "Ryan Mohta",
   "license": "ISC",
   "bugs": {
